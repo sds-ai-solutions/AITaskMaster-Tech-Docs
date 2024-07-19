@@ -1,10 +1,9 @@
 # **Start Your AITaskMaster Project**
 Welcome to the first step of your AITaskMaster journey! Let's begin by defining your project's core features and goals.
 
-!!! note ""
-	## **Step 1: Define Your Project Scope**
-	
-	Project Name: 
+!!! abstract "Step 1: Define Your Project Scope"
+
+	Project Name:
 	> AITaskMaster
 	
 	Core Features (comma-separated): 
@@ -18,8 +17,8 @@ Welcome to the first step of your AITaskMaster journey! Let's begin by defining 
 	
 	[Next Step: Technical Setup](#){ .md-button }
 
-!!! question "Helpful ResourcesHelpful Resources"
-		
+!!! question "Helpful Resources"
+
 	- [Guide: Defining Your Minimum Viable Product](https://acropolium.com/blog/how-to-build-a-minimum-viable-product/)
 	- [AI-Powered Market Research Tools](https://surveysparrow.com/blog/ai-tools-for-market-research/)
 	- [Automated Competitor Analysis](https://prisync.com/blog/how-to-automate-competitor-price-tracking/)

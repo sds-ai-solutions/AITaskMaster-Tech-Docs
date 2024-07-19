@@ -323,4 +323,4 @@ jobs:
 
 This deployment and scaling setup provides a robust foundation for your AITaskMaster application. As you grow, you may need to further optimize and scale specific components based on your usage patterns and user growth.
 
-[Proceed to Project Launch](launc.md){ .md-button }
+[Proceed to Project Launch](launch.md){ .md-button }

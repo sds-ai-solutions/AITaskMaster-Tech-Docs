@@ -1,11 +1,11 @@
 # **Start Your AITaskMaster Project**
 Welcome to the first step of your AITaskMaster journey! Let's begin by defining your project's core features and goals.
 
-``` { .yaml .annotate }
+``` { .yaml .annotate } title="Step 1: Define Your Project Scope"
 ## **Step 1: Define Your Project Scope**
 Project Name: 
 > AITaskMaster
-> 
+
 Core Features (comma-separated): 
 > AI-driven task prioritization, Intelligent time estimation, Personalized productivity insights, Calendar integration, Team collaboration
 
@@ -18,7 +18,7 @@ Success Metrics:
 [Next Step: Technical Setup](#){ .md-button }
 ```
 
-``` { .yaml .annotate }
+``` { .yaml .annotate } title="Helpful Resources"
 ## **Helpful Resources**
 
 - [Guide: Defining Your Minimum Viable Product](https://acropolium.com/blog/how-to-build-a-minimum-viable-product/)

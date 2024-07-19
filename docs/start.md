@@ -1,7 +1,7 @@
 # **Start Your AITaskMaster Project**
 Welcome to the first step of your AITaskMaster journey! Let's begin by defining your project's core features and goals.
 
-'''
+``` { .yaml .annotate }
 ## **Step 1: Define Your Project Scope**
 Project Name: 
 > AITaskMaster
@@ -16,16 +16,16 @@ Success Metrics:
 > User acquisition rate, Task completion efficiency, User engagement (daily active users)
 
 [Next Step: Technical Setup](#){ .md-button }
-'''
+```
 
-'''
+``` { .yaml .annotate }
 ## **Helpful Resources**
 
 - [Guide: Defining Your Minimum Viable Product](https://acropolium.com/blog/how-to-build-a-minimum-viable-product/)
 - [AI-Powered Market Research Tools](https://surveysparrow.com/blog/ai-tools-for-market-research/)
 - [Automated Competitor Analysis](https://prisync.com/blog/how-to-automate-competitor-price-tracking/)
 - [Schedule a Free AI Consultation](https://www.krdigitalmarketing.com/consultation)
-'''
+```
 
 ## **Next Steps Preview**
 

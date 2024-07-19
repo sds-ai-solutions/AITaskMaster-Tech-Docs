@@ -36,7 +36,7 @@ theme:
     # - navigation.instant.progress
     # - navigation.prune
     - navigation.sections
-    - navigation.tabs
+    #- navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
@@ -164,5 +164,5 @@ nav:
   - Technical Setup: tech-set.md
   - Development Environment: dev-env.md
   - Intial Development: init-dev.md
-  - Getting started:
-    - Installation: getting-started.md
+  - Advance Features: adv-feature.md
+  - Deployment and Scaling: dep-scale.md

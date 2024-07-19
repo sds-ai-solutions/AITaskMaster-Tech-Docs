@@ -18,9 +18,8 @@ Welcome to the first step of your AITaskMaster journey! Let's begin by defining 
 	
 	[Next Step: Technical Setup](#){ .md-button }
 
-!!! note ""
-	## **Helpful ResourcesHelpful Resources**
-	
+!!! question "Helpful ResourcesHelpful Resources"
+		
 	- [Guide: Defining Your Minimum Viable Product](https://acropolium.com/blog/how-to-build-a-minimum-viable-product/)
 	- [AI-Powered Market Research Tools](https://surveysparrow.com/blog/ai-tools-for-market-research/)
 	- [Automated Competitor Analysis](https://prisync.com/blog/how-to-automate-competitor-price-tracking/)

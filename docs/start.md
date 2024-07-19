@@ -15,7 +15,7 @@ Welcome to the first step of your AITaskMaster journey! Let's begin by defining 
 	Success Metrics: 
 	> User acquisition rate, Task completion efficiency, User engagement (daily active users)
 	
-	[Next Step: Technical Setup](#){ .md-button }
+	[Next Step: Technical Setup](tech-set.md){ .md-button }
 
 !!! question "Helpful Resources"
 

@@ -162,5 +162,7 @@ nav:
   - Introduction: index.md
   - Start your AITaskMaster project: start.md
   - Technical Setup: tech-set.md
+  - Development Environment: dev-env.md
+  - Intial Development: init-dev.md
   - Getting started:
     - Installation: getting-started.md

@@ -161,5 +161,6 @@ not_in_nav: |
 nav:
   - Introduction: index.md
   - Start your AITaskMaster project: start.md
+  - Technical Setup: tech-set.md
   - Getting started:
     - Installation: getting-started.md

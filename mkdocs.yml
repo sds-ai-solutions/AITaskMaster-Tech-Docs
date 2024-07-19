@@ -16,7 +16,7 @@ copyright: Copyright &copy; 2023 - 2025 Siddarudreswara Somashekar
 # Configuration
 theme:
   name: material
-  custom_dir: material/overrides
+  #custom_dir: material/overrides
   features:
     - announce.dismiss
     - content.action.edit

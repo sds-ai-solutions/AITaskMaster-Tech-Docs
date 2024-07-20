@@ -110,4 +110,4 @@ Prepare for the big day:
 
 You're now ready to launch AITaskMaster! Remember, the launch is just the beginning. Continuous improvement based on user feedback and technological advancements will be key to long-term success.
 
-[View Project Success Metrics](proj-sucess.md){ .md-button }
+[View Project Success Metrics](proj-success.md){ .md-button }
